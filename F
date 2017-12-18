@@ -1,0 +1,11 @@
+<HTML>
+<HEAD>
+<body>
+<p id="p1">
+"hello my name is faeze"
+</p>
+<scriptype="text/javascript">
+var name=<"faezeh">
+</html>
+</head>
+</body>
